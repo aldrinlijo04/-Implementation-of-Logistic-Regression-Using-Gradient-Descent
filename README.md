@@ -54,11 +54,6 @@ RegisterNumber:  212222240007
 */
 ```
 ```py
-/*
-Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Kavinesh M
-RegisterNumber:  212222230064
-*/
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import optimize
